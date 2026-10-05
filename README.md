@@ -1,4 +1,11 @@
-Guria gaúcha em transição de RH para TI. Estudante de ADS, aprendendo Front-end e criando projetos com foco em acessibilidade. ♿🌱
+# Oi, eu sou a Caroline! 👋
+
+Guria gaúcha em transição de RH para TI. 🌱
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na tecnologia, com foco em **Front-end, acessibilidade e projetos práticos**.
+
+Gosto de aprender fazendo: criando projetos, testando ideias, encontrando problemas, corrigindo e entendendo cada vez melhor como a tecnologia pode ser mais simples, acessível e humana.
+
 
 
 ## 💻 O que estou aprendendo
